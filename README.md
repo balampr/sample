@@ -1,0 +1,2 @@
+# BaseClass
+shortcut for coding
